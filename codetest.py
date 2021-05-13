@@ -49,5 +49,5 @@ def task2():
         print("your first result is : %s" % result)
         print("execution time --- %s seconds ---" % (time.time() - start_time))
           
-
-task2()
+task1() #if want to try code for task 1
+#task2() #if want to try code for task 2
